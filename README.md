@@ -1,4 +1,4 @@
-# Task1-Iris-Flower-Classification-
+# Iris-Flower-Classification-
  I built a Random Forest model to classify Iris flowers (Setosa, Versicolor, Virginica) 
  based on their sepal and petal measurements. What I did: Explored and visualized the dataset with pairplots Preprocessed and split the data (train/test) Trained a Random Forest Classifier Evaluated with accuracy, precision, recall & confusion matrix Analyzed feature importance — Petal measurements turned out to be the most important predictors! 📊 Result: 90% accuracy, with the model perfectly identifying Setosa and showing the value of feature importance analysis for model interpretability. This project helped me solidify core ML classification concepts: data preprocessing, model training, evaluation metrics, and visualization
 # 🌸 Iris Flower Classification
