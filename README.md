@@ -2,8 +2,7 @@
 
 # CodeAlhpa Internship
 
- ![Comparative Study of Helianthus annuus Morphology](./path/to/sunflower-morphology.png)
-
+⁠./path/to/sunflower-morphology.png
 
 <font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
 
