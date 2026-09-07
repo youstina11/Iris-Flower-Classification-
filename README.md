@@ -78,6 +78,3 @@ In conclusion, the Iris flower classification project successfully employed Rand
 
 - [ Youstina Salah ](https://www.linkedin.com/in/youstina-salah-592003352?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 ---
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
