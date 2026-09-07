@@ -2,7 +2,7 @@
 
 # CodeAlhpa Internship
 
-⁠./path/to/sunflower-morphology.png
+⁠![Comparative Study of Helianthus annuus Morphology](./sunflower-morphology.png)
 
 <font size="1">Image Courtesy: 
 ![Comparative Study of Helianthus annuus Morphology](./sunflower-morphology.png)
