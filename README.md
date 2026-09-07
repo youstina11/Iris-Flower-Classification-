@@ -2,7 +2,7 @@
 
 # CodeAlhpa Internship
 
-IMG_0274.jpeg
+
 
 
 Click on the following link to checkout the colab file.
