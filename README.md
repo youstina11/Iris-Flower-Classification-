@@ -4,7 +4,8 @@
 
 ⁠./path/to/sunflower-morphology.png
 
-<font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
+<font size="1">Image Courtesy: 
+![Uploading image.png…]()
 
 Click on the following link to checkout the colab file.
 - [Colab](https://colab.research.google.com/drive/1kqaU-CK8mRD35y0dFF4xD9z-GJ_CCQOe?usp=sharing)
