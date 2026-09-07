@@ -2,11 +2,6 @@
 
 # CodeAlhpa Internship
 
-⁠![Comparative Study of Helianthus annuus Morphology](./sunflower-morphology.png)
-
-<font size="1">Image Courtesy: 
-![Comparative Study of Helianthus annuus Morphology](./sunflower-morphology.png)
-
 Click on the following link to checkout the colab file.
 - [Colab](https://colab.research.google.com/drive/1kqaU-CK8mRD35y0dFF4xD9z-GJ_CCQOe?usp=sharing)
 
