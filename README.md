@@ -1,8 +1,9 @@
 # Iris Flower Classification
 
-# CodeAlhpa Internship 
+# CodeAlhpa Internship
 
-![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
+ ![Comparative Study of Helianthus annuus Morphology](./path/to/sunflower-morphology.png)
+
 
 <font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
 
