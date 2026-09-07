@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-# CodeAlhpa Internship
+![Comparative Study of Helianthus annuus Morphology](https://raw.githubusercontent.com/youstina11/Iris-Flower-Classification-/refs/heads/main/IMG_0274.jpeg)
 
 https://raw.githubusercontent.com/youstina11/Iris-Flower-Classification-/refs/heads/main/IMG_0274.jpeg
 
