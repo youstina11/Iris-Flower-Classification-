@@ -4,11 +4,6 @@
 
 https://raw.githubusercontent.com/youstina11/Iris-Flower-Classification-/refs/heads/main/IMG_0274.jpeg
 
-
-Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/drive/1kqaU-CK8mRD35y0dFF4xD9z-GJ_CCQOe?usp=sharing)
-
-
 ---
 
 ## Problem Statement
