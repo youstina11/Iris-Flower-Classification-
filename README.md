@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-![Comparative Study of Helianthus annuus Morphology](https://raw.githubusercontent.com/youstina11/Iris-Flower-Classification-/refs/heads/main/IMG_0274.jpeg)
+![Comparative Study of Helianthus annuus Morphology](https://raw.githubusercontent.com/youstina11/Iris-Flower-Classification-/refs/heads/main/WhatsApp Image 2026-09-13 at 2.18.11 PM.jpeg)
 
 https://raw.githubusercontent.com/youstina11/Iris-Flower-Classification-/refs/heads/main/IMG_0274.jpeg
 
